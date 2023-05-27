@@ -6,6 +6,8 @@
 - 🔭 I’m currently a PhD student in Mechanical Engineering @ University of Beira Interior
 - 🌱 I’m currently working in Computational Fluid Dynamics for Electrohydrodynamic Jets.
 
+![alt text][logo]
+
 <br />
 
 ### 📫 Reach me: 
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: /https://www.linkedin.com/in/silviomrcandido/
+[logo]: https://github.com/smrcandido/smrcandido/blob/main/snap.png "Logo Title Text 2"
