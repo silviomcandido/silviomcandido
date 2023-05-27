@@ -1,4 +1,16 @@
-## Hi there, I'm Sílvio Cândido 👋
+### Hi there, I'm Sílvio Cândido 👋
+<br />
+
+## I'm a electromechanical engineer!
+
+- 🔭 I’m currently a PhD student in Mechanical Engineering @ University of Beira Interior
+- 🌱 I’m currently working in Computational Fluid Dynamics for Electrohydrodynamic Jets.
+
+<br />
+
+### 📫 Reach me: 
+
+[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **smrcandido/smrcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: /https://www.linkedin.com/in/silviomrcandido/
