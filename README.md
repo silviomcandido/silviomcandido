@@ -15,10 +15,6 @@
 
 <br />
 
-### 📫 Reach me: 
-
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <!--
 **smrcandido/smrcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,5 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedin]: /https://www.linkedin.com/in/silviomrcandido/
 [logo]: https://github.com/smrcandido/smrcandido/blob/main/snap.png "Logo Title Text 2"
