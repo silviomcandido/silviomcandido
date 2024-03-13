@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![output](https://github.com/silviomcandido/silviomcandido/assets/55400288/f08ef379-7349-439c-bd96-bc6b54715afa)
-
-[logo]: https://github.com/smrcandido/smrcandido/blob/main/snap.png "Logo Title Text 2"
