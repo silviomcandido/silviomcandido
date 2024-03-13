@@ -8,7 +8,7 @@
 
 ## I'm a electromechanical engineer!
 
-- 🔭 I’m currently a PhD student in Mechanical Engineering @ University of Beira Interior
+- 🔭 I’m currently a PhD student in Mechanical Engineering @ University of Beira Interior. Check : https://silviomcandido.github.io/webJet/index.html
 - 🌱 I’m currently working in Computational Fluid Dynamics for Electrohydrodynamic Jets.
 
 ![alt text][logo]
