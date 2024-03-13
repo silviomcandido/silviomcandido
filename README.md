@@ -12,7 +12,9 @@
 -  Check PhD Resume : https://silviomcandido.github.io/webJet/index.html
 - 🌱 I’m currently working in Computational Fluid Dynamics for Electrohydrodynamic Jets.
 
-![alt text][logo]
+
+![output](https://github.com/silviomcandido/silviomcandido/assets/55400288/f08ef379-7349-439c-bd96-bc6b54715afa)
+
 
 <br />
 
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![output](https://github.com/silviomcandido/silviomcandido/assets/55400288/f08ef379-7349-439c-bd96-bc6b54715afa)
+
