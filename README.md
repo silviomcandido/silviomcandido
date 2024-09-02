@@ -8,9 +8,9 @@
 
 ## I'm a electromechanical engineer!
 
-- 🔭 I’m currently a PhD student in Mechanical Engineering @ University of Beira Interior.
+- 🔭 I’m currently working as Mechanical Engineering @ CERN.
 -  Check PhD Resume : https://silviomcandido.github.io/webJet/index.html
-- 🌱 I’m currently working in Computational Fluid Dynamics for Electrohydrodynamic Jets.
+- 🌱 I’m currently working in Computational Fluid Dynamics for Thermo-Magnetohydrodynamics of Free Surface Liquid Metal Flows.
 
 
 ![output](https://github.com/silviomcandido/silviomcandido/assets/55400288/f08ef379-7349-439c-bd96-bc6b54715afa)
