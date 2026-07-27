@@ -1,35 +1,39 @@
-### Hi there, I'm Sílvio Cândido 👋
-<br />
+### Hi, I'm Sílvio Cândido 👋
 
-[<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=pt-PT)
-[<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Silvio-Candido)
-[<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/silviomrcandido/)
-[<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4176-1178)
+Mechanical Engineer, PhD, working at the intersection of multiphysics simulation, scientific computing and data-driven engineering.
 
-## I'm a electromechanical engineer!
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Silvio-Candido)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviomrcandido/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4176-1178)
 
-- 🔭 I’m currently working as Mechanical Engineering @ [CERN](https://home.cern/).
--  Check PhD Resume : https://silviomcandido.github.io/webJet/index.html
-- 🌱 I’m currently working in Computational Fluid Dynamics for Thermo-Magnetohydrodynamics of Free Surface Liquid Metal Flows.
+## About me
 
+- 🔭 Mechanical Engineer at [CERN](https://home.cern/), developing high-power beam-intercepting systems for future particle accelerators.
+- 🌊 Working on multiphase CFD, free-surface liquid-metal flows, conjugate heat transfer, thermo-mechanical analysis and magnetohydrodynamics.
+- 💻 Python workflows for simulation automation, post-processing and large CFD datasets.
+- 🧠 Experience with TensorFlow/Keras surrogate models, variational autoencoders, ConvLSTM architectures and reduced-order modelling.
+- ⚙️ Background in OpenFOAM/C++, ANSYS Fluent, ANSYS Mechanical, SolidWorks, HPC and multiphysics modelling.
 
-![output](https://github.com/silviomcandido/silviomcandido/assets/55400288/f08ef379-7349-439c-bd96-bc6b54715afa)
+## Featured projects
 
+### [EletroJetFlow](https://silviomcandido.github.io/webJet/index.html)
 
-<br />
+PhD Research project on electrohydrodynamic Taylor cone jets, covering multiphysics CFD, three-dimensional instabilities, modal decomposition, data-driven surrogate models and HPC studies.
 
-<!--
-**smrcandido/smrcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [interIsoFoamEHD](https://github.com/silviomcandido/interIsoFoamEHD)
 
-Here are some ideas to get you started:
+OpenFOAM-based solver development for electrohydrodynamic free-surface flows, including electric-field coupling, charge conservation and Volume-of-Fluid interface tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Electrostatic Spray Surrogate](https://github.com/silviomcandido/electrostatic-spray-surrogate)
 
+TensorFlow/Keras surrogate models for predicting transient electrostatic spray fields using high-fidelity CFD data.
+
+## Research interests
+
+Computational fluid dynamics · Multiphysics modelling · Multiphase and free-surface flows · Scientific machine learning · Reduced-order modelling · Electrohydrodynamics · Magnetohydrodynamics · High-performance computing
+
+## Contact
+
+- LinkedIn: [silviomrcandido](https://www.linkedin.com/in/silviomrcandido/)
+- Website: [silviomcandido.github.io](https://silviomcandido.github.io/)
