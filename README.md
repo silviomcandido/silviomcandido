@@ -17,11 +17,11 @@ Mechanical Engineer, PhD, working at the intersection of multiphysics simulation
 
 ## Featured projects
 
-### [EletroJetFlow](https://silviomcandido.github.io/webJet/index.html)
+### [EletroJetFlow](https://silviomcandido.github.io/webJet/index.html) - Electrohydrodynamic Jet Flows
 
 PhD Research project on electrohydrodynamic Taylor cone jets, covering multiphysics CFD, three-dimensional instabilities, modal decomposition, data-driven surrogate models and HPC studies.
 
-### [interIsoFoamEHD](https://github.com/silviomcandido/interIsoFoamEHD)
+### [interIsoFoamEHD](https://github.com/silviomcandido/interIsoFoamEHD) - High-Resolution Two-Phase Electrohydrodynamic Solver for OpenFOAM
 
 OpenFOAM-based solver development for electrohydrodynamic free-surface flows, including electric-field coupling, charge conservation and Volume-of-Fluid interface tracking.
 
