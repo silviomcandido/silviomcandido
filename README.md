@@ -25,7 +25,7 @@ PhD Research project on electrohydrodynamic Taylor cone jets, covering multiphys
 
 OpenFOAM-based solver development for electrohydrodynamic free-surface flows, including electric-field coupling, charge conservation and Volume-of-Fluid interface tracking.
 
-### [Electrostatic Spray Surrogate](https://github.com/silviomcandido/electrostatic-spray-surrogate)
+### [Electrostatic Spray Surrogate](https://github.com/silviomcandido/electrostatic-spray-surrogate) - Data-driven Surrogate Models for Electrohydrodynamics 
 
 TensorFlow/Keras surrogate models for predicting transient electrostatic spray fields using high-fidelity CFD data.
 
